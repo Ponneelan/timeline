@@ -19,17 +19,6 @@ ul li p {
     padding-left: 10px;
 }
 
-ul li p span:first-child {
-    display: inline-flex;
-    width: 70%;
-}
-
-ul li p span:last-child {
-    display: inline-flex;
-    width: 30%;
-    justify-content: flex-end;
-}
-
 ul li {
     display: flex;
     position: relative;
